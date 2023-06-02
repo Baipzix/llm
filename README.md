@@ -1,2 +1,2 @@
 # llm
-develop a llm based on given data sources
+develop a chatbot based on the existing libraries including openAI, langchain, and others. 
